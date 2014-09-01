@@ -10,4 +10,4 @@ Graphic display of person’s movement path
 Running instructions
 ====================
 
-Compile and run FinalProject.cpps
+Compile and run FinalProject.cpp
